@@ -1,7 +1,0 @@
-C:\Users\Jheison\source\repos\EstSelsi\EstSelsi\bin\Debug\EstSelsi.exe.config
-C:\Users\Jheison\source\repos\EstSelsi\EstSelsi\bin\Debug\EstSelsi.exe
-C:\Users\Jheison\source\repos\EstSelsi\EstSelsi\bin\Debug\EstSelsi.pdb
-C:\Users\Jheison\source\repos\EstSelsi\EstSelsi\obj\Debug\EstSelsi.csproj.AssemblyReference.cache
-C:\Users\Jheison\source\repos\EstSelsi\EstSelsi\obj\Debug\EstSelsi.csproj.CoreCompileInputs.cache
-C:\Users\Jheison\source\repos\EstSelsi\EstSelsi\obj\Debug\EstSelsi.exe
-C:\Users\Jheison\source\repos\EstSelsi\EstSelsi\obj\Debug\EstSelsi.pdb
