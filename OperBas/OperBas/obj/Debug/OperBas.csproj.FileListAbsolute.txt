@@ -1,0 +1,7 @@
+C:\Users\Jheison\source\repos\OperBas\OperBas\obj\Debug\OperBas.csproj.AssemblyReference.cache
+C:\Users\Jheison\source\repos\OperBas\OperBas\obj\Debug\OperBas.csproj.CoreCompileInputs.cache
+C:\Users\Jheison\source\repos\OperBas\OperBas\bin\Debug\OperBas.exe.config
+C:\Users\Jheison\source\repos\OperBas\OperBas\bin\Debug\OperBas.exe
+C:\Users\Jheison\source\repos\OperBas\OperBas\bin\Debug\OperBas.pdb
+C:\Users\Jheison\source\repos\OperBas\OperBas\obj\Debug\OperBas.exe
+C:\Users\Jheison\source\repos\OperBas\OperBas\obj\Debug\OperBas.pdb

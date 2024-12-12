@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jheison\\source\\repos\\OperBas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C759707-3BD0-47B0-8D77-E6B9FA319616}|OperBas\\OperBas.csproj|c:\\users\\jheison\\source\\repos\\operbas\\operbas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C759707-3BD0-47B0-8D77-E6B9FA319616}|OperBas\\OperBas.csproj|solutionrelative:operbas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\OperBas\\OperBas\\Program.cs",
+              "RelativeDocumentMoniker": "OperBas\\Program.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\OperBas\\OperBas\\Program.cs",
+              "RelativeToolTip": "OperBas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:25:54.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

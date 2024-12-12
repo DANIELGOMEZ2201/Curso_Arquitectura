@@ -1,0 +1,2 @@
+C:\Users\Jheison\source\repos\ParaExtendido\ParaExtendido\obj\Debug\ParaExtendido.csproj.AssemblyReference.cache
+C:\Users\Jheison\source\repos\ParaExtendido\ParaExtendido\obj\Debug\ParaExtendido.csproj.CoreCompileInputs.cache

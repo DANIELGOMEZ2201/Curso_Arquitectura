@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|c:\\users\\jheison\\source\\repos\\wfadatos\\wfadatos\\frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\frmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\frmpersonas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\frmpersonas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\frmvarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\frmvarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\frmvarx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\frmvarx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\frmvarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\frmvarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\frmkapvarx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\frmkapvarx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\frmkapvarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\frmkapvarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfadatos\\frmkapvarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D8D826E-C151-40D9-B5E0-98C042656086}|wfaDatos\\wfaDatos.csproj|solutionrelative:wfadatos\\frmkapvarx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPersonas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmPersonas.Designer.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\frmPersonas.Designer.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmPersonas.Designer.cs*",
+              "RelativeToolTip": "wfaDatos\\frmPersonas.Designer.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAvwL8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:32:10.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmPersonas.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\frmPersonas.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmPersonas.cs*",
+              "RelativeToolTip": "wfaDatos\\frmPersonas.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAvwDkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:30:48.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPersonas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmPersonas.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\frmPersonas.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmPersonas.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "wfaDatos\\frmPersonas.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:23:12.066Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\Program.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\Program.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\Program.cs",
+              "RelativeToolTip": "wfaDatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:07:09.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmVarx.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmVarx.Designer.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\frmVarx.Designer.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmVarx.Designer.cs",
+              "RelativeToolTip": "wfaDatos\\frmVarx.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:00:55.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVarx.cs",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmVarx.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\frmVarx.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmVarx.cs",
+              "RelativeToolTip": "wfaDatos\\frmVarx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:37:38.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmVarx.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmVarx.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\frmVarx.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmVarx.cs [Dise\u00F1o]",
+              "RelativeToolTip": "wfaDatos\\frmVarx.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:37:31.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmKapVarx.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmKapVarx.Designer.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\frmKapVarx.Designer.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmKapVarx.Designer.cs",
+              "RelativeToolTip": "wfaDatos\\frmKapVarx.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:36:00.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmKapVarx.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmKapVarx.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\frmKapVarx.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmKapVarx.cs [Dise\u00F1o]",
+              "RelativeToolTip": "wfaDatos\\frmKapVarx.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:12:33.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\Form1.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "wfaDatos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:41:59.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmKapVarx.cs",
+              "DocumentMoniker": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmKapVarx.cs",
+              "RelativeDocumentMoniker": "wfaDatos\\frmKapVarx.cs",
+              "ToolTip": "C:\\Users\\Jheison\\source\\repos\\wfaDatos\\wfaDatos\\frmKapVarx.cs",
+              "RelativeToolTip": "wfaDatos\\frmKapVarx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:16:02.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

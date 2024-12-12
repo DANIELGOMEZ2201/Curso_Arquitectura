@@ -1,0 +1,7 @@
+C:\Users\Jheison\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.exe.config
+C:\Users\Jheison\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.exe
+C:\Users\Jheison\source\repos\Primitiva\Primitiva\bin\Debug\Primitiva.pdb
+C:\Users\Jheison\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.csproj.AssemblyReference.cache
+C:\Users\Jheison\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.csproj.CoreCompileInputs.cache
+C:\Users\Jheison\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.exe
+C:\Users\Jheison\source\repos\Primitiva\Primitiva\obj\Debug\Primitiva.pdb
